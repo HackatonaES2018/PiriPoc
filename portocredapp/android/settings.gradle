@@ -1,0 +1,3 @@
+rootProject.name = 'portocredapp'
+
+include ':app'
